@@ -1,0 +1,3 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/opt/Proj_Dev/horizontal-subsystem/3_horizontal-subsystem-lang/scala/qwen_ai-training/scala-akka-todo-api/"), "scala-akka-todo-api")...
+[debug] Done updating ProjectRef(uri("file:/opt/Proj_Dev/horizontal-subsystem/3_horizontal-subsystem-lang/scala/qwen_ai-training/scala-akka-todo-api/"), "scala-akka-todo-api")
